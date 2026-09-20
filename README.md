@@ -67,14 +67,14 @@ ShopVerse is a full-stack e-commerce web application built with **PHP, MySQL, PD
 
 ```text
 shopverse/
-│
+
 ├── admin/                  # Admin dashboard and management
 ├── database/               # Database connection
 ├── includes/               # Authentication, security and mailer
 ├── css/                    # Stylesheets
 ├── js/                     # JavaScript files
 ├── Screenshots/            # Application screenshots
-│
+
 ├── index.php               # Home page
 ├── login.php               # Login page
 ├── register.php            # Registration page
@@ -83,12 +83,12 @@ shopverse/
 ├── wishlist.php            # Wishlist
 ├── checkout.php            # Checkout
 ├── orders.php              # Customer orders
-│
+
 ├── login_process.php       # Login processing
 ├── register_process.php    # Registration processing
 ├── Cart_process.php        # Cart processing
 ├── Checkout_process.php    # Checkout processing
-│
+
 ├── .htaccess               # Apache configuration
 ├── .gitignore              # Git ignored files
 └── README.md               # Project documentation
@@ -207,39 +207,37 @@ Administrators can:
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### Home Page
 
-![Home Page](Screenshots/Screenshot%20%28522%29.png)
+![Home Page](./Screenshots/Screenshot%20%28522%29.png)
 
 ### Shop
 
-![Shop](Screenshots/Screenshot%20%28523%29.png)
+![Shop](./Screenshots/Screenshot%20%28523%29.png)
 
 ### Product Details
 
-![Product Details](Screenshots/Screenshot%20%28524%29.png)
+![Product Details](./Screenshots/Screenshot%20%28524%29.png)
 
 ### Cart
 
-![Cart](Screenshots/Screenshot%20%28525%29.png)
+![Cart](./Screenshots/Screenshot%20%28525%29.png)
 
 ### Checkout
 
-![Checkout](Screenshots/Screenshot%20%28526%29.png)
+![Checkout](./Screenshots/Screenshot%20%28526%29.png)
 
 ### Login
 
-![Login](Screenshots/Screenshot%20%28527%29.png)
+![Login](./Screenshots/Screenshot%20%28527%29.png)
 
 ### Admin Dashboard
 
-![Admin Dashboard](Screenshots/Screenshot%20%28528%29.png)
+![Admin Dashboard](./Screenshots/Screenshot%20%28528%29.png)
 
 ### Admin Management
 
-![Admin Management](Screenshots/Screenshot%20%28529%29.png)
+![Admin Management](./Screenshots/Screenshot%20%28529%29.png)
 
 ## 🔒 Security Notes
 
