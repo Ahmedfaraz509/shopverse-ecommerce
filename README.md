@@ -207,6 +207,8 @@ Administrators can:
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### Home Page
 
 ![Home Page](Screenshots/Screenshot%20%28522%29.png)
