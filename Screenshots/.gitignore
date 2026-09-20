@@ -1,0 +1,26 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Mail configuration and logs
+/includes/mail_config.php
+/logs/*
+!/logs/.htaccess
+
+# Uploaded files
+/uploads/*
+!/uploads/.gitkeep
+
+# Dependencies
+/vendor/
+node_modules/
+
+# Archives
+*.zip
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
