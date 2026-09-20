@@ -209,35 +209,35 @@ Administrators can:
 
 ### Home Page
 
-![Home Page](./Screenshots/Screenshot%20%28522%29.png)
+![Home Page](Screenshots/home.png)
 
 ### Shop
 
-![Shop](./Screenshots/Screenshot%20%28523%29.png)
+![Shop](Screenshots/shop.png)
 
 ### Product Details
 
-![Product Details](./Screenshots/Screenshot%20%28524%29.png)
+![Product Details](Screenshots/product-details.png)
 
 ### Cart
 
-![Cart](./Screenshots/Screenshot%20%28525%29.png)
+![Cart](Screenshots/cart.png)
 
 ### Checkout
 
-![Checkout](./Screenshots/Screenshot%20%28526%29.png)
+![Checkout](Screenshots/checkout.png)
 
 ### Login
 
-![Login](./Screenshots/Screenshot%20%28527%29.png)
+![Login](Screenshots/login.png)
 
 ### Admin Dashboard
 
-![Admin Dashboard](./Screenshots/Screenshot%20%28528%29.png)
+![Admin Dashboard](Screenshots/admin-dashboard.png)
 
 ### Admin Management
 
-![Admin Management](./Screenshots/Screenshot%20%28529%29.png)
+![Admin Management](Screenshots/admin-management.png)
 
 ## 🔒 Security Notes
 
